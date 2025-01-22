@@ -1,0 +1,7 @@
+Bundle 'vim-latex/vim-latex'
+Bundle 'prabirshrestha/vim-lsp'
+Bundle 'mattn/vim-lsp-settings.git'
+Bundle 'prabirshrestha/asyncomplete.vim'
+Bundle 'prabirshrestha/asyncomplete-lsp.vim'
+Bundle 'hrsh7th/vim-vsnip'
+Bundle 'hrsh7th/vim-vsnip-integ'
